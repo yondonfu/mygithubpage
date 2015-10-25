@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2015-10-24 20:17:44
+date:   2015-10-24 20:49:06
 categories: jekyll update
 ---
-More to come...stay tuned!
+Just getting started here, more to come soon...stay tuned!
